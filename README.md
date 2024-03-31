@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://i.ibb.co/WxBv226/Screenshot-2024-03-31-185220.png" alt="cover" />
+<img width="100%" src="https://i.ibb.co/FwHjq36/Safayet-Hossain-Arif.jpg" alt="cover" />
 </div>
 <h1 align="center">Hi,I'm Safayet 👋</h1> 
 <h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.</h3>
