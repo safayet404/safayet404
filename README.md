@@ -4,7 +4,7 @@
 <img width="100%" src="https://i.ibb.co/WxBv226/Screenshot-2024-03-31-185220.png" alt="cover" />
 </div>
 <h1 align="center">Hi,I'm Safayet 👋</h1> 
-<h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.Experienced in front-end and back-end development, dedicated to continuous learning and pushing the boundaries of technology. Committed to delivering high-quality, user-centric experiences that make a positive impact</h3>
+<h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.</h3>
 
 <div align="center">
  
