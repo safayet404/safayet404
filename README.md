@@ -8,9 +8,7 @@
 
 <div align="center">
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=safayet404&show_icons=true&theme=iceberg" alt="GitHub Stats" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=safayet404&theme=iceberg" alt="GitHub Streak" /></a>
 </div>
 <br>
 
@@ -19,7 +17,7 @@
 
 - 🤞 I find joy in the process of problem-solving. 
 
-- 🚀 Passionate front-end developer mastering HTML, CSS, React,NodeJS and MongoDB .
+- 🚀 Passionate front-end developer mastering HTML, CSS, ReactJS,NextJS,NodeJS and MongoDB .
 
 - 💻 Expert in crafting beautiful interfaces with ReactJS and Bootstrap.
 
