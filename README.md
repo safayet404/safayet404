@@ -35,7 +35,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,nodejs,mongodb,express,github,git,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,mongodb,express,github,git,figma&perline=6" />
   </a>
 </p>
 
@@ -66,5 +66,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - Productive Time" style="max-width:100%;">
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=safayet404=dark)](https://git.io/streak-stats)
 </div>
