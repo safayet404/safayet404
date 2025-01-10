@@ -8,7 +8,7 @@
 
 <div align="center">
  
- [![GitHub Streak](https://github-readme-streak-stats-navy-ten.vercel.app?user=&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats-navy-ten.vercel.app?user=safayet404&theme=dark)](https://git.io/streak-stats)
 </div>
 <br>
 
