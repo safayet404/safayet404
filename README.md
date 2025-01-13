@@ -19,7 +19,7 @@
 
 - 🚀 Passionate front-end developer mastering HTML, CSS, ReactJS,NextJS,NodeJS and MongoDB .
 
-- 💻 Expert in crafting beautiful interfaces with ReactJS and Bootstrap.
+- 💻 Expert in crafting beautiful interfaces with ReactJS,NextJS and Tailwind.
 
 - 🏨 Currently, I am coding my way through a Tour Guide Agency project.
 
