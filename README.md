@@ -16,9 +16,9 @@
 
 - 🤞 I find joy in the process of problem-solving. 
 
-- 🚀 Passionate front-end developer mastering HTML, CSS, ReactJS,NextJS,NodeJS and MongoDB .
+- 🚀 Passionate Software Developer mastering HTML, CSS, ReactJS,NextJS,NodeJS and MongoDB .
 
-- 💻 Expert in crafting beautiful interfaces with ReactJS,NextJS and Tailwind.
+- 💻 Expert in crafting beautiful interfaces with SvelteKit,ReactJS,NextJS and Tailwind.
 
 - 🏨 Currently, I am coding my way through a Tour Guide Agency project.
 
