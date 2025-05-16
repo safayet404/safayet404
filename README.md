@@ -16,7 +16,7 @@
 
 - 🤞 I find joy in the process of problem-solving. 
 
-- 🚀 Passionate Software Developer mastering HTML, CSS, ReactJS,NextJS,NodeJS and MongoDB .
+- 🚀 Passionate Software Developer mastering HTML, CSS,SvelteKit,ReactJS,NextJS,NodeJS and MongoDB .
 
 - 💻 Expert in crafting beautiful interfaces with SvelteKit,ReactJS,NextJS and Tailwind.
 
