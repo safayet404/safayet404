@@ -4,7 +4,8 @@
 <!-- <img width="100%" src="https://i.ibb.co/FwHjq36/Safayet-Hossain-Arif.jpg" alt="cover" /></div> -->
 <!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/90c2e8c1-1015-487d-8362-d7ad95f48531" /> -->
 <!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/9ca2a826-30e1-42ea-abeb-6d497d72f8af" /> -->
-<img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/75884cbc-d652-4b48-b492-3c63b4c66f56" />
+<!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/75884cbc-d652-4b48-b492-3c63b4c66f56" /> -->
+<img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/42deb0bb-68ac-4585-919e-748b60f99984" />
 
 <h1 align="center">Hi, I'm Safayet 👋</h1> 
 <h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.</h3>
