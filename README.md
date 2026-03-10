@@ -2,8 +2,7 @@
  
  
 <!-- <img width="100%" src="https://i.ibb.co/FwHjq36/Safayet-Hossain-Arif.jpg" alt="cover" /></div> -->
-<img width="100%" src="https://i.ibb.co.com/VcdwBfrN/Screenshot-from-2026-03-11-02-17-41.png" alt="cover" /></div>
-
+<img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/90c2e8c1-1015-487d-8362-d7ad95f48531" />
 
 
 <h1 align="center">Hi, I'm Safayet 👋</h1> 
