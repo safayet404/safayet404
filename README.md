@@ -37,7 +37,7 @@
 
 <h2>🖥 Technologies That I know</h2>
 <br>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,svelte,mongodb,github,git,figma&perline=6" />
   </a>
@@ -46,7 +46,7 @@
 <br>
 
 <h2>🏆 My Statistics </h2>
-<div align="left">
+<div align="center">
  
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - GitHub stats card" style="max-width:100%;">
