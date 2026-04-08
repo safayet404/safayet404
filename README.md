@@ -8,8 +8,8 @@
 <!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/42deb0bb-68ac-4585-919e-748b60f99984" /> -->
 
 <h1 align="center">Hi, I'm Safayet 👋</h1> 
-<h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Software+Engineer;SvelteKit+%26+React+Enthusiast;)](https://git.io/typing-svg)
+ 
 <div align="center">
  
 [![GitHub Streak](https://github-readme-streak-statistics.vercel.app?user=safayet404&theme=dark)](https://git.io/streak-stats)
