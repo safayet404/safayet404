@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
  
  
 <!-- <img width="100%" src="https://i.ibb.co/FwHjq36/Safayet-Hossain-Arif.jpg" alt="cover" /></div> -->
