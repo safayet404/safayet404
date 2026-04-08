@@ -1,4 +1,4 @@
-<div align="">
+<div>
  
  
 <!-- <img width="100%" src="https://i.ibb.co/FwHjq36/Safayet-Hossain-Arif.jpg" alt="cover" /></div> -->
@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<h2>🙋‍♀️ About Me </h2>
+<h2  align="center">🙋‍♀️ About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://www.innovination.com/wp-content/uploads/2021/06/develpoment.gif" />
 
 - 🤞 I find joy in the process of problem-solving. 
@@ -35,7 +35,7 @@
 
 <br>
 
-<h2>🖥 Technologies That I know</h2>
+<h2 align="center">🖥 Technologies That I know</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
 
 <br>
 
-<h2>🏆 My Statistics </h2>
+<h2 align="center">🏆 My Statistics </h2>
 <div align="center">
  
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark">
