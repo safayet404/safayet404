@@ -1,73 +1,85 @@
 <div align="center">
- 
- 
-<!-- <img width="100%" src="https://i.ibb.co/FwHjq36/Safayet-Hossain-Arif.jpg" alt="cover" /></div> -->
-<!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/90c2e8c1-1015-487d-8362-d7ad95f48531" /> -->
-<!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/9ca2a826-30e1-42ea-abeb-6d497d72f8af" /> -->
-<img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/75884cbc-d652-4b48-b492-3c63b4c66f56" /> 
-<!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/42deb0bb-68ac-4585-919e-748b60f99984" /> -->
 
-<h1 align="center">Hi, I'm Safayet 👋</h1> 
-<h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.</h3>
+<img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/75884cbc-d652-4b48-b492-3c63b4c66f56" />
 
-<div align="center">
- 
-[![GitHub Streak](https://github-readme-streak-statistics.vercel.app?user=safayet404&theme=dark)](https://git.io/streak-stats)
+<h1>Hi, I'm Safayet 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Web+Developer;SvelteKit+%26+React+Enthusiast;Clean+Code+Advocate)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-safayet.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://safayet.vercel.app)
+
 </div>
-<br>
 
-<h2>🙋‍♀️ About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://www.innovination.com/wp-content/uploads/2021/06/develpoment.gif" />
+---
 
-- 🤞 I find joy in the process of problem-solving. 
+## 🙋‍♂️ About Me
 
-- 🚀 Passionate Software Developer mastering HTML, CSS,SvelteKit,ReactJS,NextJS,NodeJS and MongoDB .
+<img width="45%" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 💻 Expert in crafting beautiful interfaces with SvelteKit,ReactJS,NextJS and Tailwind.
+- 🚀 Passionate **Software Engineer** specializing in modern web technologies
+- 💻 Building elegant interfaces with **SvelteKit**, **ReactJS**, **NextJS** and **Tailwind CSS**
+- 🏗️ Currently crafting a **Tour Guide Agency** web platform
+- 🌱 Always learning and pushing the boundaries of web development
+- 👌 Strong believer in clean, maintainable, and readable code
+- 🤝 Open to collaborating on creative and impactful projects
+- 🔍 Find joy in solving complex problems with simple solutions
 
-- 🏨 Currently, I am coding my way through a Tour Guide Agency project.
+<br clear="right"/>
 
-- 🛠️ Dedicated to continuous learning and pushing the boundaries of web development.
+---
 
-- 👌 I strongly believe in the power of clean, maintainable code.
+## 🖥️ Tech Stack
 
-- 🤝 Eager to collaborate on projects that combine creativity and technology.
-
-<br>
-
-<h2>🖥 Technologies That I know</h2>
-<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,svelte,mongodb,github,git,figma&perline=6" />
   </a>
 </p>
 
-<br>
+---
 
-<h2>🏆 My Statistics </h2>
+## 🏆 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-statistics.vercel.app?user=safayet404&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 <div align="left">
- 
+
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - GitHub stats card" style="max-width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark" alt="GitHub stats" style="max-width:100%;">
 </a>
-
-
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safayet404&theme=nord_dark&exclude={exclude}">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safayet404&theme=nord_dark&exclude={exclude}" alt="GitHub Profile Summary - Top languages in commits" style="max-width:100%;">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safayet404&theme=nord_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safayet404&theme=nord_dark" alt="Top languages in commits" style="max-width:100%;">
 </a>
-
-
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safayet404&theme=nord_dark&exclude={exclude}">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safayet404&theme=nord_dark&exclude={exclude}" alt="GitHub Profile Summary - Top languages used" style="max-width:100%;">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safayet404&theme=nord_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safayet404&theme=nord_dark" alt="Top languages used" style="max-width:100%;">
 </a>
-
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safayet404&theme=nord_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - Productive Time" style="max-width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safayet404&theme=nord_dark" alt="Productive Time" style="max-width:100%;">
 </a>
-
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safayet404&theme=nord_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - Productive Time" style="max-width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safayet404&theme=nord_dark" alt="Profile Details" style="max-width:100%;">
 </a>
 
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://safayet.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=safayet404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
