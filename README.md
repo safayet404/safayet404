@@ -47,7 +47,7 @@
 <h2 align="center">🏆 My Statistics </h2>
 <div align="center">
  
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=dark">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - GitHub stats card" style="max-width:100%;">
 </a>
 
