@@ -8,7 +8,7 @@
 <!-- <img width="100%" alt="Safayet Hossain Arif - GitHub Banner" src="https://github.com/user-attachments/assets/42deb0bb-68ac-4585-919e-748b60f99984" /> -->
 
 <h1 align="center">Hi, I'm Safayet 👋</h1> 
-<h3 align="center">I A passionate web developer with a flair for crafting elegant and efficient solutions.</h3> 
+<h3 align="center">A passionate web developer with a flair for crafting elegant and efficient solutions.</h3> 
 <div align="center">
  
 [![GitHub Streak](https://github-readme-streak-statistics.vercel.app?user=safayet404&theme=dark)](https://git.io/streak-stats)
@@ -47,7 +47,7 @@
 <h2 align="center">🏆 My Statistics </h2>
 <div align="center">
  
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safayet404&theme=nord_dark" alt="GitHub Profile Summary - GitHub stats card" style="max-width:100%;">
 </a>
 
