@@ -13,6 +13,8 @@
  
 [![GitHub Streak](https://github-readme-streak-statistics.vercel.app?user=safayet404&theme=dark)](https://git.io/streak-stats)
 
+![My contributions as a city: one building per week, one lit window per active day](https://raw.githubusercontent.com/safayet404/safayet404/output/skyline.svg)
+
 </div>
 <br>
 
